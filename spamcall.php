@@ -15,10 +15,10 @@ echo "
 ############################################################
     Spammer Call From FRANS-O'CONER
         Author By   : FRANS-O'CONER        
-		Github      : https://github.com/MltrCyber
+	Github      : https://github.com/MltrCyber
         Facebook    : https://www.facebook.com/100024771054179
         Youtube     : FRANS-O'CONER (persekukhaya)
-		WhatsApp    : 081362319526
+	WhatsApp    : 081362319526
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
 echo "Nomor\nMasukkan No Target : ";
